@@ -1,8 +1,5 @@
 <!-- Zphisher -->
 
-<p align="center">
-  <img src=".imgs/logo.png">
-</p>
 
 <p align="center">A beginners friendly, Automated phishing tool with 30+ templates.</p>
 
@@ -28,7 +25,7 @@ $ git clone git://github.com/prabingaire/PhisingInstant.git
 
 - Change to cloned directory and run `zphisher.sh` -
 ```
-$ cd zphisher
+$ cd PhisingInstant
 $ bash zphisher.sh
 ```
 
